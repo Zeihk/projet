@@ -4,3 +4,5 @@ myexec : main.o
 main.o : main.c
 	gcc -c main.c
 	@echo : "Compilation de main"
+
+# test de connection avec github

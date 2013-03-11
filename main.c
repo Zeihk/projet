@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include<math.h>
 
+//Programme principal : test 2 pour vérifier la conncetion avec github
 
 int main(){
 
